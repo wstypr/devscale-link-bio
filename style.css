@@ -60,6 +60,12 @@ header {
   margin-bottom: 24px;
   width: 90%;
   border-radius: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  font-size: 1rem;
+  transition: 0.3s;
 }
 
 .link {
